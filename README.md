@@ -10,4 +10,4 @@ A set of scripts to fully automate Hamster Kombat farming. Automatic upgrades pu
 - Possible to run multiple accounts on one device
 
 ## Where can I get it?
-Visit (HamsterLabs bot)[https://t.me/hamster_labs_bot] for the details.
+Visit [HamsterLabs bot](https://t.me/hamster_labs_bot) for the details.
